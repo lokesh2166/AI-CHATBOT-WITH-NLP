@@ -34,3 +34,4 @@ Conclusion
 An anime-explaining chatbot built with NLTK serves as a fascinating interactive tool for anime enthusiasts. It provides instant answers, helps users discover anime titles, explains genres, and enriches the knowledge of newcomers entering the anime world. While it operates on pattern-based responses, its utility can be extended by integrating AI-powered enhancements in future iterations.
 
 output:
+![Image](https://github.com/user-attachments/assets/d9224f4a-9df2-4fa1-9066-feb84d9d075c)
